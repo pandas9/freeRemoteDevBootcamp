@@ -2,7 +2,7 @@
 
 ---
 
-This is open-source curriculum for devs that are looking to become freelancers and want to know how to do it, where to start and how to sell online. This curriculum is also suggested for devs that are freelancers and want to earn more. Curriculum has text and video whatever you prefer as learning material. Hope this helps few. If it does give me a follow on twitter!
+Open-source curriculum for devs looking to become freelancers and want to know how to do it, where to start, and how to sell online. This curriculum is also suggested for devs who are freelancers and want to earn more Curriculum has text and video whatever you prefer as learning material. Hope this helps few. If it does give me a follow on twitter!
 
 Curriculum is divided into steps it should take you around 3 months to complete it. It has video, text and tasks to complete as you advance through curriculum.
 
