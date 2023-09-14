@@ -1,21 +1,61 @@
 <!DOCTYPE html>
 <html lang="en">
-
-<head>
-    <meta charset="UTF-8">
-    <meta http-equiv="X-UA-Compatible" content="IE=edge">
-    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
     <script src="https://cdn.tailwindcss.com"></script>
-    <link rel="stylesheet" href="./src/style.css">
+    <link rel="stylesheet" href="./src/style.css" />
     <title>freeRemoteDevCamp</title>
-</head>
+  </head>
 
-<body>
+  <body>
     <div>
-        <h1 class="text-3xl font-bold underline">
-            Hello world!
-          </h1>
-    </div>
-</body>
+      <!-- Header -->
+      <div
+        class="flex justify-between items-center border-b border-gray-600 p-3"
+      >
+        <div>
+          <span class="font-bold text-lg">freeRemoteDevCamp</span>
+        </div>
+        <div class="flex gap-3">
+          <div>
+            <span class="text-sm text-gray-400">
+              If you like this content give me a follow -
+            </span>
+          </div>
+          <div>
+            <a href="https://x.com/notivanheil" target="_blank">
+              <svg
+                xmlns="http://www.w3.org/2000/svg"
+                width="24"
+                height="24"
+                viewBox="0 0 24 24"
+                fill="none"
+                stroke="currentColor"
+                stroke-width="2"
+                stroke-linecap="round"
+                stroke-linejoin="round"
+                class="lucide lucide-twitter"
+              >
+                <path
+                  d="M22 4s-.7 2.1-2 3.4c1.6 10-9.4 17.3-18 11.6 2.2.1 4.4-.6 6-2C3 15.5.5 9.6 3 5c2.2 2.6 5.6 4.1 9 4-.9-4.2 4-6.6 7-3.8 1.1 0 3-1.2 3-1.2z"
+                />
+              </svg>
+            </a>
+          </div>
+        </div>
+      </div>
 
+      <!-- Content -->
+      <div class="max-w-4xl m-auto">
+        <div class="flex flex-col gap-6 px-3 py-9">
+          <div class="flex flex-col gap-3">
+            <span class="font-bold text-2xl">Getting Started</span>
+            <span>Test</span>
+          </div>
+        </div>
+      </div>
+    </div>
+  </body>
 </html>
