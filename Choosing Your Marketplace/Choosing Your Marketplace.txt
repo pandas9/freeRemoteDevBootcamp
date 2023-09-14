@@ -1,0 +1,119 @@
+Let's talk about marketplaces, I would like to emphasize the importance of exploring various freelance marketplaces such as Fiverr, Freelancer.com, and others, in addition to Upwork. Should you signup on multiple platforms? You can do that that is an option. But lets first explore what you are looking for and where you would fit in because every platform has specific benefits. Every platform is fitting in much larger marketplace which is connecting companies to freelancers and they also have to find their own fit. There cannot be two upwork websites that would serve no purpose so that's why I wanna talk about choosing your marketplace as a part of the course. I see too many people just sign up on upwork as it's deemed as a most popular option. Or they sign up everywhere expecting the more work the better but the truth is dominating just one platform as a top freelancer is more than enough. And not only is it more than enough but giving focus on one platform and ranking up there, will benefit you a lot more in the future than trying to fit all of the marketplaces. Let's explore our options and by end of this module I want you think and find which marketplace you will be selling on.
+When working on Fiverr, I've found that the platform is designed around a gig-based system, which allows freelancers to offer their services in the form of fixed-price packages. This structure makes it easy for you to create and sell services tailored to your expertise. Moreover, Fiverr focuses on smaller, quicker projects, which is great if you prefer to work on multiple short-term tasks rather than committing to long-term projects. When I was selling on Fiverr there were weeks where I would have 10 projects per week and each order on average was 200 dollars and few hours of work. Fiverr has evolved a lot since I was selling there these days you can also post ads.
+Fiverr operates with a different approach compared to other platforms, as it focuses on a gig-based system. This means that, instead of bidding on projects, you'll create service packages or "gigs" showcasing your skills and expertise. Potential clients will then browse and purchase your gigs based on their needs. This model allows you to define the scope, timeline, and pricing for your services, giving you greater control over your work and schedule.
+As a software developer on Fiverr, you'll find a wide variety of gig categories to choose from, such as web development, mobile app development, database design, or even specialized areas like blockchain development or machine learning. This diversity provides you with ample opportunities to offer your services in areas where you excel or explore new niches to expand your skills.
+One characteristic of Fiverr is that it often caters to smaller, shorter-term projects. This can be an advantage if you enjoy working on multiple tasks simultaneously or prefer to avoid long-term commitments. However, it's essential to manage your time effectively to ensure you can deliver quality work within the agreed-upon deadlines.
+Hope you guys enjoyed this lesson, thank you for tuning in.
+---
+
+When setting up your gigs, you'll need to create eye-catching titles, descriptions, and visuals that accurately represent your services and attract potential clients. Throughout this course, I'll provide you with tips and best practices for crafting compelling gig listings that can help you stand out in the crowded marketplace.
+Fiverr's review and rating system plays a crucial role in your success on the platform. As you complete projects, clients will provide feedback and rate your work. A strong track record of positive reviews can boost your visibility on the platform, making it easier for you to secure more clients and even charge higher rates for your services. Therefore, it's crucial to focus on delivering high-quality work and maintaining excellent communication with your clients.
+It's important to be mindful of the fees associated with using Fiverr. The platform typically charges a 20 percent commission on each completed project. Be sure to factor this into your pricing strategy when creating your gigs.
+By understanding the unique aspects of this platform, you'll be well-prepared to grow your freelancing career and achieve success on Fiverr.
+I'd like to share my experiences and observations about the competition you can expect when selling your services on the platform.
+Fiverr has become increasingly popular over the years, attracting a large and diverse pool of freelancers. As a software developer, you're likely to encounter competition from professionals across the globe, with varying levels of experience and skill sets. This competitive environment can make it challenging to stand out, especially when you're just starting out on the platform.
+However, there are ways to differentiate yourself and attract clients even amidst the competition. In this course, I will guide you through various strategies to help you stand out from the crowd and make a lasting impression on potential clients. Some of the key areas we'll focus on include.
+Crafting engaging titles, descriptions, and visuals for your gigs can make a significant difference in drawing clients to your services. We'll explore techniques for showcasing your expertise and the value you bring to clients through your gig listings.
+A well-organized and impressive portfolio can speak volumes about your abilities and experience. We'll discuss the importance of selecting your best work, presenting it professionally, and regularly updating your portfolio to showcase your most recent projects.
+We'll discuss the importance of clear communication, setting realistic expectations, and delivering high-quality work to ensure your clients are satisfied with your services.
+A lot of developers that have years of experience won't be looking to sell on Fiverr due to it's gig based system nature and projects being short term. So it could be a great option when you are starting out and a thing to consider when choosing marketplace.
+Hope you guys enjoyed this lesson, thank you for tuning in.
+---
+
+On the other hand, Freelancer.com is known for its contest-based opportunities, where clients post a project and multiple freelancers submit their work in a competitive format. This approach can be exciting and rewarding as it lets you showcase your skills and potentially win larger projects. Additionally, Freelancer.com also offers traditional bidding-based projects, giving you the flexibility to choose the type of work you prefer.
+This means you'll have the opportunity to work on projects that suit your interests and skill set, and even explore new areas to broaden your expertise. You might find projects related to web development, mobile app development, data analysis, machine learning, or any other field within software development.
+One unique aspect of Freelancer.com is the presence of contest-based projects. These contests allow you to compete with other developers by submitting your work for a particular task or challenge. If your submission is chosen as the winner, you'll not only receive the payment for your work but also gain valuable recognition that can help you attract more clients. Contests can be an exciting way to showcase your skills and gain experience, especially when you're starting out.
+Freelancer.com uses a bidding system for most of its projects, which means you'll need to submit proposals for the projects you're interested in. This can be both challenging and rewarding, as it encourages you to carefully consider your skills, the project requirements, and your proposed timeline and budget. A well-crafted proposal can make all the difference in securing a project, and as we move through this course, I will provide you with tips and strategies on how to create compelling proposals that stand out from the competition.
+Another important aspect of Freelancer.com is its reputation and feedback system. As you complete projects, clients will provide feedback and ratings based on your performance. Building a strong reputation through positive feedback can significantly impact your ability to secure future projects and negotiate higher rates. It's essential to focus on providing excellent work and maintaining clear communication with your clients to achieve this.
+It's important to be aware of the platform's fees and charges. Freelancer.com typically charges a percentage-based fee on the total project cost, which varies depending on your membership plan. Make sure you account for these fees when bidding on projects and setting your rates.
+I want to discuss the competition you might face as a software developer selling your services on Freelancer.com and share my personal experiences navigating this competitive environment.
+Freelancer.com is a popular and well-established platform, attracting a vast number of freelancers from around the world. As a result, you can expect to encounter a high level of competition from professionals with diverse skill sets, experiences, and backgrounds. This can make it challenging for you to stand out and secure projects, especially when you're just beginning your journey on the platform.
+Hope you guys enjoyed this lesson, thank you for tuning in.
+---
+
+Since Freelancer.com uses a bidding system, your project proposals play a crucial role in securing work. We'll explore techniques for writing compelling proposals that highlight your skills, demonstrate your understanding of the project requirements, and showcase the value you bring to the table.
+
+Your Freelancer.com profile serves as your online resume and should effectively represent your expertise and experience. We'll discuss the importance of building an impressive portfolio, selecting your best work, and presenting it professionally.
+
+Keeping abreast of the latest trends and technologies in software development can help you stay ahead of the competition. We'll explore resources and strategies for expanding your skills and staying informed about industry developments.
+
+In my experience with Freelancer.com, I've observed that the platform attracts a diverse mix of software engineers with varying levels of experience, ranging from beginners to seasoned professionals who have been in the field for several years.
+
+While it's true that some established software engineers choose to use Freelancer.com to find projects and supplement their income, there's also a substantial number of freelancers who are just starting out or still developing their skills.
+
+Upwork, a platform many of you might already be familiar with, provides a more comprehensive approach, catering to a wide range of project types and budgets. Upwork's built-in time tracking and milestone-based payment system offer a higher level of protection for both clients and freelancers. Furthermore, Upwork's detailed client feedback system helps freelancers build a strong reputation, which can lead to better job opportunities and higher rates.
+
+Upwork is a versatile platform that caters to a wide range of project types, sizes, and budgets. As a software developer on Upwork, you'll come across numerous opportunities to work on projects that align with your interests and expertise, whether it's web development, mobile app development, data analysis, or other areas within the software development domain.
+
+Upwork operates on a proposal-based system, meaning you'll submit proposals to clients for projects that interest you. Writing persuasive proposals is essential to secure projects, as it helps you showcase your skills, experience, and understanding of the project requirements.
+
+A significant aspect of Upwork is its robust feedback system. As you complete projects, clients will provide feedback and ratings based on your performance. Building a strong reputation with positive feedback can significantly impact your ability to secure future projects and command higher rates. It's important to focus on delivering high-quality work and maintaining clear communication with clients to achieve this.
+
+Upwork's built-in time tracking and milestone-based payment systems provide a layer of protection for both clients and freelancers, ensuring that payments are tied to the completion of agreed-upon tasks. This can be particularly beneficial when working on larger, more complex projects.
+Hope you guys enjoyed this lesson, thank you for tuning in.
+---
+
+Lastly, it's important to be aware of the fees associated with using Upwork. The platform uses a sliding fee scale, which means that the percentage-based fees decrease as your total earnings from a single client increase. This rewards long-term client relationships and encourages repeat business.
+
+As you know by now, Upwork is a popular and well-established platform, which means you'll be competing with a large number of freelancers from all around the world. These professionals possess a wide range of skills, expertise, and experience levels, making the marketplace quite competitive. For newcomers to the platform, this competition can make it challenging to stand out and secure projects.
+
+Previously, Upwork required new freelancers to take the Upwork Readiness Test, a short quiz designed to assess their understanding of the platform's policies and best practices. The purpose of the test was to ensure that freelancers had a basic understanding of how the platform worked before they could begin submitting proposals for projects.
+
+However, Upwork has since removed the Readiness Test, streamlining the onboarding process for new freelancers. This change means that you can now get started on the platform more quickly, without the added step of completing the test.
+
+Let's touch a bit on upwork tests and are they important part of when having profile on Upwork. From my experience, clients on Upwork tend to prioritize a freelancer's portfolio, work history, and client feedback over test scores and certifications. A strong portfolio and positive feedback from previous clients are seen as more reliable indicators of a freelancer's skills and expertise, especially in the software development field.
+Hope you guys enjoyed this lesson, thank you for tuning in.
+---
+
+Moreover, the practical experience gained through real-world projects is often valued more than theoretical knowledge tested through standardized exams. Clients are usually more interested in seeing how you've applied your skills to solve real problems and the results you've achieved.
+
+Another factor to consider is that the quality and relevance of some Upwork tests might not accurately reflect your skills and abilities as a software developer. In some cases, the tests may be outdated or not aligned with the latest industry trends and best practices, making them less useful in demonstrating your expertise.
+
+Furthermore, clients on Upwork often have tight deadlines and specific project requirements. They might not have the time or inclination to review test scores or certifications, instead preferring to focus on your proposal, portfolio, and demonstrated ability to deliver results.
+
+Another platform, Toptal, focuses on connecting clients with the top talent in their respective fields. While the vetting process to join Toptal is more rigorous, once accepted, you'll have access to high-quality projects and clients who value your expertise. Toptal also provides better compensation compared to many other platforms, as they target the top 3% of freelancers in each industry.
+
+I want to share with you what you can expect when selling their services on Toptal.com, based on my own experiences and observations.
+
+Toptal is a unique platform in the freelancing world, as it focuses on connecting top-tier talent with clients seeking high-quality work. The platform prides itself on its rigorous screening process, which means that as a software developer, you'll need to go through a series of assessments and interviews to become part of the Toptal network.
+
+Once accepted, you'll gain access to a curated pool of clients who are specifically looking for skilled professionals to work on their projects. These projects typically involve more complex and challenging work, which can provide you with an opportunity to further develop your skills, work on exciting projects, and potentially command higher rates than on other platforms.
+
+One of the benefits of working on Toptal is the platform's focus on building long-term client relationships. This approach can lead to more stable income streams and the opportunity to work with clients on multiple projects over time. Additionally, the platform often handles the project scoping and matching process, which can save you time and effort when compared to submitting proposals on other platforms.
+
+Another advantage of Toptal is its supportive community of top talent. As a member, you'll have access to various resources, including exclusive events, webinars, and networking opportunities that can help you stay informed about industry trends and connect with other professionals.
+
+However, it's essential to be aware that the competition for projects on Toptal can be intense, given that the platform specifically targets high-caliber talent. To thrive on Toptal, you'll need to consistently deliver top-notch work and maintain strong communication with clients.
+
+Let's talk about Guru dot com. One notable aspect of Guru is its user-friendly interface and straightforward project bidding process. Building a strong profile and portfolio is essential to attract clients and showcase your expertise on Guru.
+
+When you first sign up on Guru.com, you'll need to create a profile that effectively showcases your skills, expertise, and experience as a software developer. Your profile serves as your online resume, so it's essential to make it as comprehensive and professional as possible.
+
+Once your profile is set up, you can start browsing the platform for projects that align with your interests and skills. Guru.com offers a variety of software development projects, ranging from web development to mobile app development, data analysis, and more.
+
+Submitting proposals is a crucial aspect of securing projects on Guru.com. In this course, we'll discuss effective strategies for crafting persuasive proposals that highlight your skills, experience, and understanding of the client's needs. It's essential to be patient and persistent, as it might take time to win your first project, especially if you're new to the platform.
+
+Hope you guys enjoyed this lesson, thank you for tuning in. I tried to cover as many websites as possible and as many details about selling on these websites from personal experience in this module there is PDF file attached on finding ideal marketplace for yourself and what to expect if you cannot choose one marketplace feel free to sign up for two or three and see which one takes off for you.
+
+---
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

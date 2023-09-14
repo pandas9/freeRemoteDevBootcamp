@@ -1,0 +1,44 @@
+Hello everyone, and welcome to todays lesson! Today, we'll be discussing the importance of choosing what to sell.
+
+As a freelancer, one of the most crucial decisions I have to make is identifying the right services to offer. Making this choice is critical because it can significantly impact my success in the competitive world of freelance software development.
+
+When I started my journey as a freelancer, I quickly realized that it's essential to specialize in a particular area, rather than being a jack-of-all-trades. By focusing on specific technologies or niches, I could stand out from the competition, improve my skillset, and increase my chances of landing high-quality projects.
+
+For instance, I decided to focus on web scraping. And then later transitioned into web development, building apps and a lot more stuff. I felt that by offering my expertise in this area, I could target a larger client base while also ensuring that my skills were in high demand. As a result, my specialization enabled me to attract clients who were looking for fast reliable developers, which led to better project opportunities and higher pay.
+
+Another aspect I considered when deciding what to sell was the market demand. I researched trends in the industry, looking for emerging technologies that were gaining traction. This allowed me to stay ahead of the curve, offering services in areas that were growing rapidly, ensuring a constant stream of work.
+
+Which you will learn how to as well in this module.
+
+As a developer you will be working on many things through your career constantly learning new skills.
+
+Before deciding what to sell we need to know how to research trends and what's in market demand. This is a skill that I've found to be invaluable in my journey as a freelance software developer, as it's helped me stay ahead of the curve and ensure that my services are always in high demand.
+
+The first thing I like to do when researching trends is to follow reputable sources in the industry. I make it a habit to regularly read articles, blog posts, and news from well-established tech websites, such as Hacker News, TechCrunch, and Ars Technica. This keeps me informed about the latest technologies and developments in the software world, which in turn helps me identify emerging trends.
+
+In addition to news websites, I also find it beneficial to participate in online developer communities. Platforms like GitHub, Stack Overflow, and Reddit are excellent places to engage with fellow developers, exchange knowledge, and discover trending technologies. By being active in these communities, I can stay updated on the latest tools, libraries, and frameworks that are gaining popularity among developers.
+
+Social media platforms, such as Twitter and LinkedIn, are also great tools for staying informed about trends. I follow key influencers, developers, and companies in the tech industry to get a pulse on what's happening. This helps me to not only stay updated on the latest news but also to gain insights into what the experts in the field are discussing and what they believe will be the next big thing.
+Hope you guys enjoyed this lesson, thank you for tuning in.
+---
+
+Lastly, I like to analyze job postings and freelance project listings. Websites like Upwork, Freelancer, and Indeed offer a wealth of information on what skills and technologies clients are looking for. By regularly reviewing these listings, I can identify which skills are in high demand and adjust my service offerings accordingly.
+
+Let me show you an example of what to look for on this website so you can get a feel.
+
+If you visit HackerNews you can see latest news, what you are looking for is pattern something that is being talked about a lot it can be anything lets check current news. AI news as expected if you are like me you have been seeing AI news all the time for months. We are trying to find pattern as to what is emerging and what people want because that is what will give you highest advantage as a newcomer when starting freelancing. More chat gpt news. 
+
+Lets check TechCrunch and see if theres anything interesting there. Keep in mind this should be quick research on news websites because a lot of headlines are here to make you click and stay later we will go into upwork to show you demand on certain jobs and what to look for. Another good source is something like ars technica twitter could also be another great source if you are following right people just make sure its tailored towards growth. Let's check ars technica business and tech news. More AI news as expected haha let me check new tool from facebook it looks intriguing.
+
+Let me show you what I like the most which is looking directly at websites like upwork and freelancer. You can simply search upwork jobs when you click it you can explore remote jobs and see how much people wanna pay for certain jobs and what are most popular stacks. When you log in into upwork which I am gonna show you later you can see even more details and explore more. Which I recommend to utilize at your advantage and detect new trends because they can be huge boost your career. A lot of people will say that is not for me and thats where you can step it and fill the demand. For example if you check job posting time you can clearly see web development is in much higher demand on upwork there is 10 new jobs around web development in last 20 minutes when starting out you can trade more time for less money while other bigger players can't and that is how you can rank up high. Don't be afraid to put in time into marketplace you choose because later it will all pay out ten fold. Then let's check more trends I would definitely be looking into how can I help clients with AI and whats the all fuss about. You could for example use AI to rank up on marketplace and as you gain reputation and have funds available compete for something you want to do that has more competition such as web development.
+
+Lets check freelancer there are also another websites you can check and see their job postings and see whats in demand. Interesting thing in freelancer you can see number of jobs right away and for example dot net 116 jobs but alpine js 0 jobs that is something you want to avoid let me try to find gpt okay so chat gpt already has 36 available jobs to take which is a lot and you can fill the demand there. When starting out most important thing to focus on is finding your niche that will allow you to push through on the platform because once you rank up and establish yourself on the platform it will allow you to compete for higher paying jobs which are more competitive jobs such as web development.
+
+Check this prompt engineer which could be great thing for someone new on the platform because its what we call experimental project. It's gonna allow you learn a lot of new things instead of constantly doing same thing you already know how to do.
+
+These websites seem to be tied to one company remote job won't be checking them this time.
+
+Just don't start out and set yourself as a wordpress developer because everyone is doing it and there is money to be made but its gonna be too slow and you will be trading your time at much lower rate than for example picking up something like an AI service just one AI service and dominate in that niche where jobs are less paid but at the same its gonna help you rank up.
+
+In conclusion, researching trends in software development and identifying market demand is an ongoing process that requires dedication and persistence. By staying informed through various channels and continually updating your skills, you can ensure that your freelance services remain relevant and in high demand. Remember, in the ever evolving world of software development, staying ahead of the curve is essential for long-term success.
+Hope you guys enjoyed this lesson, thank you for tuning in.
