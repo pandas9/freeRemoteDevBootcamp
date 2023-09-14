@@ -6,7 +6,7 @@ This is open-source curriculum for devs that are looking to become freelancers a
 
 Curriculum is divided into steps it should take you around 3 months to complete it. It has video, text and tasks to complete as you advance through curriculum.
 
-**If you enjoyed the content - give a follow [X?Twitter?](https://x.com/notivanheil)**
+**If you enjoyed the content - give a follow on [twitter]()**
 
 ### Content
 
