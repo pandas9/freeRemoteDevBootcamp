@@ -1,0 +1,50 @@
+I learned the hard way not to take disagreements with clients personally. As a developer, my goal was to meet their needs and help them achieve their vision. By detaching myself emotionally from the project, I could focus on finding the best solution while maintaining a professional attitude. It seemed easy in theory, but it was a challenge in practice.
+
+When I stopped taking disagreements personally, I created an environment where both my client and I could discuss ideas and concerns openly. This open-mindedness led to creative solutions and allowed me to look at situations from different perspectives. As a result, I built trust with my clients, which led to long-lasting, successful working relationships, repeat business, referrals, and a positive reputation in my field.
+
+By detaching yourself emotionally from the project and not taking disagreements personally, you can focus on finding the best solution while maintaining a professional attitude. It's gonna be difficult, while you are listening to this you might think to yourself that it's gonna be easy and not a problem. But just try to come back to this material when it does happen because it happens to everyone when starting out.
+
+For example, I once worked with a client who insisted on using outdated technology for their project. Knowing that modern tools and frameworks would be more efficient, I initiated a conversation to understand their reasoning.
+
+By asking probing questions and addressing their concerns, I found common ground and suggested cost-effective, modern solutions that offered the benefits of updated technology.
+
+Instead of outright dismissing their idea, initiate a conversation to understand their reasoning. They might be concerned about cost or compatibility with their existing infrastructure. Ask probing questions, such as "What specific concerns do you have about using newer technologies?" or "Are there any particular aspects of the outdated technology that you find appealing?" Based on their answers, you can find common ground by suggesting cost-effective, modern solutions that address their concerns while still offering the benefits of updated technology.
+
+In another instance, a client requested an overly complex feature that I believed would harm the user experience. I asked questions to understand their perspective and identify their underlying needs.
+
+Like, "What is the main goal you're trying to achieve with this feature?" or "How do you envision this feature benefiting the end-users?"
+
+Once I knew their objectives, I proposed alternative solutions that were simpler but still met their goals, such as breaking the complex feature into smaller, more manageable components or implementing a more user-friendly design.
+
+By not taking disagreements personally, I improved my ability to handle conflicts professionally, which ultimately led to stronger working relationships and better outcomes for my clients.
+Hope you guys enjoyed this lesson, thank you for tuning in.
+---
+
+I once found myself working on a mobile app where the client insisted on a design I thought would be counterintuitive for users. I knew it was crucial to communicate effectively and empathize with their perspective, so I began by discussing their design goals and asking questions like, "What do you think users will find most appealing about this design?" and "How do you see this design enhancing user engagement?"
+
+After understanding their perspective, I suggested a compromise by blending their ideas with best practices in mobile design. For example, I proposed incorporating their preferred color scheme or branding elements while still adhering to established design principles that enhance usability.
+
+This experience taught me the importance of asking the right questions to clarify project requirements from the very beginning. For instance, when a client wants a website redesign, it's important to ask about the aspects of their current website that are working well, the improvements they envision, and any new features or functionalities they'd like to include.
+
+You wanna ask questions such as. What aspects of your current website do you feel are working well, and what do you think needs improvement?
+Are there any new features or functionalities you'd like to include in the redesign?
+Can you share examples of websites with designs or features that you find appealing?
+All of those questions are about. Assessing project scope and requirements. Identifying potential challenges and risks. Estimating time and resources needed. Aligning with a client, staying on a straight line.
+
+Similarly, when a client needs a custom software solution, understanding the problem they're trying to solve and the desired outcome is key. By asking open-ended, probing questions, I could encourage clients to share their needs, expectations, and preferences, allowing me to tailor my approach and deliver a product that met their expectations.
+
+If a client approaches you to create a custom software solution, you'll need to understand the problem they're trying to solve and the desired outcome. Consider asking these questions. What are the must-have features or functionalities for this software?
+Are there any existing solutions that you've tried, and if so, why didn't they meet your needs?
+What are your expectations regarding the timeline and budget for this project?
+
+In all these examples, the goal was to create a dialogue that fostered a collaborative environment and built trust. This approach helped me define project scope, minimize misunderstandings, and manage my workload, setting the stage for a smoother development process and a more satisfying end result for both my clients and me.
+
+This understanding enables you to tailor your approach and deliver a product that meets their expectations. It also allows you to identify any potential gaps or misalignments early in the process, providing an opportunity for clarification and alignment. Open-ended questions facilitate a dialogue between you and the client, giving them a chance to express their thoughts, concerns, and ideas.
+
+Asking about specific requirements, features, and functionalities helps you define the project scope, which is crucial for accurate estimation of time and resources. It also minimizes the risk of misunderstandings and scope creep, ensuring that both you and the client are on the same page regarding the project's objectives.
+
+Years of learning and countless courses have led me to develop frameworks to guide these crucial conversations. Now, I can confidently say that asking the right questions at the beginning of a project is invaluable in ensuring alignment and success.
+
+I'll provide you frameworks for all of these things as PDF file.
+
+Hope you guys enjoyed this lesson, thank you for tuning in.

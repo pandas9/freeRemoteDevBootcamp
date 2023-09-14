@@ -1,0 +1,51 @@
+Aligning and talking with clients will be a game-changer when you work as remote developer. I realized that establishing clear communication with clients was crucial to ensure we were on the same page and that their needs and goals were being met. By learning the best practices for communicating, including setting expectations, establishing a communication plan, and using the right tools, I was able to excel in my projects.
+
+I dived deeper into understanding my clients' needs and goals, which proved to be a critical step in the development process. By gathering requirements, conducting interviews, and using feedback to refine my work, I could create solutions that met their specific needs and achieved their desired outcomes.
+
+Active listening and asking the right questions became my go-to techniques. I focused on understanding their business objectives, identifying pain points, and gathering feedback on my work. Through analysis and synthesis, I crafted solutions tailored to their needs.
+
+Asking open-ended questions encouraged clients to share their thoughts and ideas, providing valuable insights. After listening to their responses, I would summarize what they said and ask follow-up questions to ensure we were on the same page. For instance, I would clarify, "Just to confirm, you want the solution to be easy to use for both your employees and customers, is that correct?"
+
+A good open ended question is website would run on woo commerce and have stripe as payment processor?
+
+Or
+
+Would thing A work with thing B? Do they integrate together?
+
+I also asked specific questions to gather the necessary information for creating a solution that met their requirements. For example, I might inquire, "Do you want to be able to upload an Excel file and upload all products into the platform?"
+
+This can include questions about their business objectives, tech stack, and desired outcomes. So for example, you want to be able to upload excel file and upload all products into platform?
+
+You also need to be able to analyze and synthesize this information to create a solution that meets their needs.
+
+Using examples helped clients visualize my proposals, allowing them to make informed decisions. By presenting website examples of already built solutions, clients could see, experience, and provide feedback.
+
+Use examples to help the client visualize what you are proposing. This can help them understand your ideas and make informed decisions. Then give them website examples of already built solutions that they can see experience and provide feedback back to you. A lot of this sounds basic but basics is what makes customer trust you and come back to you because they are essential to get right. 
+
+Although these techniques may seem basic, they were essential for building trust and securing repeat clients. By understanding and meeting client needs, I set myself up for success as a remote developer, creating lasting impressions and strong working relationships.
+Hope you guys enjoyed this lesson, thank you for tuning in.
+---
+
+Another turning point is clarifying project requirements. I learned to repeat back what clients said, using my own words, to ensure we were both on the same page. If I struggled to envision the solution, I would ask for examples, breaking down complex requirements into smaller, more manageable pieces. This approach allowed me to align exceptionally well with my clients.
+
+If you don't have a vision unable to imagine the solution and finished project ask for examples.
+That is gonna allow you to align with a client exceptionally well.
+
+As a developer, I inevitably encountered situations where my vision for a project didn't align with the client's. Navigating these moments required professionalism and tact. I discovered that communication was key; whenever I felt we were not on the same page, I initiated a conversation to clarify expectations and requirements.
+
+Now, as a developer, you'll inevitably encounter situations where your vision for a project doesn't align with your client's. I've been there, and I can tell you it's not always easy. However, it's essential to navigate these moments with professionalism and tact.
+
+Understanding the client's perspective became crucial. I asked open-ended questions to encourage them to share their thoughts and ideas. For instance, if I envisioned a minimalist website design, but the client wanted something more traditional, I would ask, "What specific elements of a traditional design do you think would best represent your brand?" or "Can you share examples of websites with the aesthetic you have in mind?"
+
+Try to understand their perspective by asking open-ended questions that encourage them to share their thoughts and ideas.
+
+Once I had a better understanding of their vision, I looked for common ground.
+
+Offer solutions that combine the best of both worlds. In our website design example, you could suggest incorporating a classic color palette and typography while maintaining a clean, uncluttered layout. By compromising, you demonstrate your flexibility and willingness to adapt to your client's needs.
+
+I offered solutions that combined the best aspects of both ideas, demonstrating flexibility and adaptability. If we still couldn't reach an agreement, I remembered that the client was ultimately the decision-maker. My role was to provide guidance and expertise, but it was their project, and they had the final say.
+
+Your role as a developer is to provide guidance and expertise, but it's their project, and they have the final say. In such cases, it's crucial to express your concerns and explain the potential drawbacks of their idea, but ultimately, you should respect their decision and execute the project to the best of your ability.
+
+In such cases, I expressed my concerns and explained potential drawbacks of their idea, but ultimately respected their decision and executed the project to the best of my ability. By focusing on effective communication, understanding their perspective, finding common ground, and respecting their final decision, I built strong working relationships and maintained my professionalism throughout each project.
+Hope you guys enjoyed this lesson, thank you for tuning in.
