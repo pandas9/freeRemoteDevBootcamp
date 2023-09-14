@@ -1,0 +1,102 @@
+When you're starting out as a remote developer, you might feel a bit overwhelmed. I know I did! There's a sea of opportunities out there, and it can be challenging to determine which ones to dive into. At this stage, I encourage you to look for projects that can help you rank up fast on your chosen platform. These projects might not be the most lucrative or the most challenging ones, but they will offer you something just as valuable: exposure and experience.
+
+These projects can help you establish your presence on the platform and showcase your skills. Completing them successfully can earn you positive reviews and ratings, which can significantly improve your visibility to potential clients. More importantly, these projects give you an opportunity to learn the ropes of remote working, understand client expectations, and hone your coding skills.
+
+As a beginner, you'll want to grab every learning opportunity you can get. Remember, at this stage, it's not just about earning; it's about learning, growing, and building a strong foundation for your remote development career.
+
+Now, as you gain more experience and become a more senior remote developer, your priorities will naturally shift. You'll have built a reputation on the platform and developed a certain level of confidence in your skills. At this point, you should be looking for jobs that can further boost your reputation as a developer.
+
+These projects might be more complex, requiring advanced coding skills, or they might be with high-profile clients who can provide excellent exposure. These projects will not only challenge you and push your boundaries but also provide an opportunity to further enhance your reputation on the platform.
+
+Successfully completing these projects will cement your status as a skilled and reliable developer, attracting more high-profile clients and high-paying jobs. Moreover, these projects can enrich your portfolio, making you a more attractive candidate for future clients.
+
+Remember, as you progress in your remote development career, the 'best job' for you will change. It's a dynamic process that's closely tied to your growth and development as a remote developer. What's important is to stay adaptable, keep learning, and always strive to improve.
+
+In the end, the 'best job' is the one that aligns with your current goals and contributes to your long-term success. It's the one that challenges you, helps you grow, and brings you satisfaction. Whether you're a beginner looking to gain experience or a seasoned developer aiming to enhance your reputation, always choose the job that best serves your career path.
+
+Remember, as a remote developer, you're not just coding—you're building a career, one project at a time. Keep that in mind as you navigate through the exciting world of remote development.
+
+If you are going through this course as senior developer you can apply tools from how to close deals and maintaining client relationship but if you are just starting out let me provide you few examples what would good beginner job look like.
+
+Despite your experience as a developer, only thing clients see is what you can do for them.
+
+Lets look at this job.
+
+When you're just starting out, a good job is one that helps you build a strong foundation. It’s not necessarily about landing the most complex or highest-paying project right out of the gate. Instead, it's about gaining practical experience, learning the ropes, and steadily developing your skills.
+
+Let's break it down. A good job for a newcomer should have these characteristics.
+
+Look for small to medium-sized projects that you can complete relatively quickly. These types of jobs help you accumulate completed projects and positive feedback rapidly, which can boost your ranking on the platform.
+
+Just as clients look at your profile and previous work, you should do the same. Try to take on projects from clients who have a history of fair treatment and positive interactions with freelancers. This can increase the likelihood of a successful project completion and a good review.
+
+Remember, your goal at this stage is to rank up on the platform, build a positive reputation, and grow your skills. So, don't shy away from those smaller projects. They are stepping stones to bigger opportunities and an important part of your journey as a remote developer.
+
+What I like about this job is that it seems like a hobby project for these projects extremely important to outline exact feature client wants and agree to terms and let them know in advance any other changes are of extra charge except bugs.
+
+It's decently paid, it can be done fast and since its a hobby project if you are unsure about implementation there is rom to grow and learn without having pressure from a company and their deadlines.
+
+What I don't like is that client has zero reviews if I was starting out I would be bid below everyone else to get a job and do clear communication upon what is expected complete in a day or two get that review and continue from there.
+
+Lets look at this job I love this kind of jobs. Despite finding developers with years of experience they have let him down. Why? Because 90 percent work you do is not about coding but dealing with humans. Everything is a pure psychology.
+
+Client has a good profile, good reviews, deposit made, verified profile fully. And look at this "Please reply with the last line of your message containing an animal of some description" lets look at how many people did this in their proposals.
+
+Out of 15 proposals maybe 3 of them included animal at the end of their proposals.
+
+Now let me ask you a different question. What did you think of their proposals? You think they were good? Not only are they bot replies but they are copy paste of each other.
+
+And there is thousands and thousands of jobs just like this one.
+
+Your focus is not about development skills but providing sufficient solution for a client. Where needs from communication, to their vision and delivery meet.
+
+Check this statistics what can we see here there is lack of people can that adapt to new processes, timely respond to messages and maintain balance between professional life.
+
+Should that come as a surprise? That remote work is not just about the work you do.
+
+Instead its about communication skills, teamwork and job specific expertise.
+
+Check this what most job advertisements require.
+
+Ability to program and ability to work with a computer are one of the lowest despite most work being around programming.
+
+90 percent work is psychological.
+
+Hopefully you are getting an idea why most freelance developers fail, they are focusing on wrong things.
+
+Lets look at jobs you wanna avoid.
+
+Every platform will have this kind of jobs where requirements are just absolute nightmare and pay being so low that its not even worth for new freelancers.
+
+You need to read api calls, some servers return text format and then you have to reformat it to be usable json object.
+
+Client has 462 jobs posted and only 15 percent hire rate.
+
+You will find these jobs everywhere where client wants website to be facebook dot com for thousand dollars and you wanna keep this jobs as a worst case if you have to really grind it out.
+
+Which I don't recommend because there is too much work and not enough reward for the work you will be doing. It will be exhausting and boring.
+
+If a client can't clearly articulate what they need, it often leads to misunderstandings, scope creep, and unrealistic expectations. Always look for jobs with clear, detailed descriptions of what the project entails and what deliverables are expected.
+
+Or ensure exact features that you will develop and make sure client fully understand that only bug fixes are free of charge.
+
+Remember, being selective about the jobs you accept isn't about being picky; it's about ensuring that you are investing your time and energy into projects that will provide value to you in ranking up fast and ensuring your growth.
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
